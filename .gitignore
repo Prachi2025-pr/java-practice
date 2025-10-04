@@ -1,2 +1,9 @@
+# Ignore SSH key files
 prachi
 prachi.pub
+
+# Ignore compiled Java files
+*.class
+
+# Ignore VS Code settings
+.vscode/
